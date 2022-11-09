@@ -31,3 +31,10 @@ let test = null;
 // UNDEFINED e nedefinirna vrednost (nema kutija)
 test = undefined;
 console.log(test)
+
+let promenliva
+
+promenliva = 6
+
+promenliva = promenliva *2
+
