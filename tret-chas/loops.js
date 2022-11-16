@@ -45,3 +45,8 @@ for (let pet of pets.reverse()) {
     console.log(pet)
 }
 
+num = 1
+while (10 >= 1) {
+    console.log(num)
+    num++
+}
